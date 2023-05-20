@@ -14,6 +14,6 @@
 - Frontend: HTML, CSS, React.js, Vue.js
 - Backend: Node.js, Express.js, Django (PLAN)
 - Databases: MongoDB, MySQL (PLAN)
-- Version Control: Git, GitHub
+- Version Control: Git, GitHub, SLACK, JIRA
 - DevOps: Docker, AWS (PLAN)
 
