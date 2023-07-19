@@ -4,7 +4,7 @@
 
 - 🔭 React 를 배울 계획입니다.
 - 🌱 현재 명지대학교 중어중문학과와 응용 소프트웨어학과를 전공하고 있습니다.
-- 💬 JAVA / HTML / CSS / JAVASCRIPT / REACT
+- 💬 JAVA / HTML / CSS / JAVASCRIPT / REACT / SPRINGBOOT
 - 📫 How to reach me: [https://wlyu.tistory.com/]
 - 😄 Pronouns: She
 
